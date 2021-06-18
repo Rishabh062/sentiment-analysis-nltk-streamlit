@@ -1,0 +1,6 @@
+streamlit
+nlkt
+pandas
+SentimentIntensityAnalyzer
+nltk.sentiment.vader
+vader
